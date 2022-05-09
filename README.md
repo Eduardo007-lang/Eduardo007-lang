@@ -1,7 +1,8 @@
-### Hey! Sou o Eduardo Pereira
+### Hey! im Eduardo Pereira
 ##
-<p>🔭 Programador FullStack</p>
-<p>🌱 Estudando novas tecnologias</p> 
+<p>🔭 FullStack Programmer</p>
+<p>
+At the moment knowing the world</p> 
 <p>📫 eduardo.ads2018@gmail.com</p>
 
  <div>
