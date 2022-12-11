@@ -3,8 +3,6 @@
 <p>🔭 FullStack Programmer</p>
 <p>
 At the moment knowing the world</p> 
-<p>📫 eduardo.ads2018@gmail.com</p>
-
  <div>
   <a href="https://github.com/Eduardo007-lang">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo007-lang&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -24,7 +22,7 @@ At the moment knowing the world</p>
  ##
 
   <div>
-  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   <p><strong>Electronic contact: </strong><p>
   <a href="mailto:eduardo.ads2018@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Eduardo007-lang/Eduardo007-lang/blob/output/github-contribution-grid-snake.svg)
