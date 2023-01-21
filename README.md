@@ -1,4 +1,4 @@
-### Hey! im Eduardo Pereira
+z### Hey! im Eduardo Pereira
 ##
 <p>🔭 FullStack Programmer</p>
 <p>
@@ -17,13 +17,14 @@ At the moment knowing the world</p>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
 </div>
   
  ##
 
   <div>
    <p><strong>Electronic contact: </strong><p>
-  <a href="mailto:eduardo.ads2018@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="mailto:eduardo.ads2018@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Eduardo007-lang/Eduardo007-lang/blob/output/github-contribution-grid-snake.svg)
   </div>
