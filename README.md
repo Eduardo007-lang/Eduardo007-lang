@@ -1,4 +1,4 @@
-z### Hey! im Eduardo Pereira
+### Hey! im Eduardo Pereira
 ##
 <p>🔭 FullStack Programmer</p>
 <p>
@@ -24,7 +24,8 @@ At the moment knowing the world</p>
 
   <div>
    <p><strong>Electronic contact: </strong><p>
-  <a href="mailto:eduardo.ads2018@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
+    <a href="mailto:eduardo.ads2018@gmail.com" target="_blank"><img  height="30" width="30" src="https://img.icons8.com/color/512/gmail-new.png"></a> 
+   <a href="https://www.linkedin.com/in/eduardo-pereira-silva-9b4976160/"target="_blank"><img height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
  
   ![Snake animation](https://github.com/Eduardo007-lang/Eduardo007-lang/blob/output/github-contribution-grid-snake.svg)
   </div>
