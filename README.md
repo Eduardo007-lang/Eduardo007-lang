@@ -6,9 +6,7 @@ At the moment knowing the world</p>
  <div>
   <a href="https://github.com/Eduardo007-lang">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo007-lang&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo007-lang&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
- 
-  
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo007-lang&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/> --> 
 </div>
  
 </div>
