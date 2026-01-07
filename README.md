@@ -4,8 +4,7 @@
 <p>Lucas 9:23</p> 
  <div>
   <a href="https://github.com/Eduardo007-lang">
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo007-lang&show_icons=true&theme=transparent)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo007-lang)](https://github.com/anuraghazra/github-readme-stats)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo007-lang&layout=compact)
 </div>
  
