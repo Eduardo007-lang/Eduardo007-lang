@@ -1,14 +1,10 @@
-### Olá! Eu sou o  Eduardo Pereira
-##
-<p>Programador FullStack</p>
-<p>Lucas 9:23</p> 
- <div>
-  <a href="https://github.com/Eduardo007-lang">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo007-lang)](https://github.com/anuraghazra/github-readme-stats)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo007-lang&layout=compact)
-</div>
- 
-</div>
+### Olá! 👋 Eu sou o Eduardo Pereira
+
+🚀 **Engenheiro de Software Full Stack**  
+Desenvolvo aplicações modernas, focadas em performance, qualidade de código e boas práticas.
+
+> ✝️ *Lucas 9:23*
+
 
   <div style="display: inline_block"><br>
    <img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
