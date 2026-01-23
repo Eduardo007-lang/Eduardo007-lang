@@ -3,6 +3,7 @@
 🚀 **Engenheiro de Software Full Stack**  
 Desenvolvo aplicações modernas, focadas em performance, qualidade de código e boas práticas.
 
+
 > ✝️ *Lucas 9:23*
 
 
@@ -21,9 +22,15 @@ Desenvolvo aplicações modernas, focadas em performance, qualidade de código e
    <img align="center" alt="postgresql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
    <img align="center" alt="git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
 </div>
-  
- ##
 
+<div>  
+<a href="https://github.com/Eduardo007-lang/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardo007-lang&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/Eduardo007-lang/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo007-lang&layout=donut&langs_count=8&card_width=320&theme=transparent" />
+</a>
+</div>
   <div>
    <p><strong>Contato Eletrônico: </strong><p>
     <a href="mailto:eduardo.ads2018@gmail.com" target="_blank"><img  height="30" width="30" src="https://img.icons8.com/color/512/gmail-new.png"></a> 
@@ -32,6 +39,7 @@ Desenvolvo aplicações modernas, focadas em performance, qualidade de código e
   ![Snake animation](https://github.com/Eduardo007-lang/Eduardo007-lang/blob/output/github-contribution-grid-snake.svg)
   </div>
 
-  <javascript src="api/top-langs?username=Eduardo007-lang" ></javascript>
+
+<javascript src="api/top-langs?username=Eduardo007-lang" ></javascript>
 
 
