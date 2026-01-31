@@ -22,8 +22,6 @@ Desenvolvo aplicações modernas, focadas em performance, qualidade de código e
    <img align="center" alt="postgresql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
    <img align="center" alt="git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
 </div>
-&count_private=true
-  &include_all_commits=true
 <div>  
 <a href="https://github.com/Eduardo007-lang/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardo007-lang&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" />
